@@ -20,4 +20,5 @@ $(document ).ready(function() {
 		$('.large-modal').css('display', 'none');
 		$('.overlay').css('display', 'none');
 	});
-});
+})
+// Moon
